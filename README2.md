@@ -1,6 +1,6 @@
-# art
- 
+
+# Readme Generator
+
 ## Description
- 
-awesome
- 
+An application that allows a developer to generte a professional README easily
+    
