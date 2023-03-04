@@ -1,7 +1,7 @@
 // TODO: Include packages needed for this application
 var inquirer = require('inquirer');
 var fs = require("fs");
-const generateMarkdown = require("./generateMarkdown")
+const generateMarkdown = require("./generateMarkdown.js")
 
 // TODO: Create an array of questions for user input
 // description, installation instructions, usage information, contribution guidelines, and test instructions
@@ -39,7 +39,16 @@ const questions = [
       name: "test_instructions",
       type: "input",
       message: "What are the test instructions?"
-     }
+    },
+
+    {
+     name:'license',
+     type: 'list',
+     message: 'Choose Your License',
+     choices: ['cc', 'ecl-2.0', 'osl-3.0']
+     
+    }
+     
 
 
 
@@ -67,17 +76,8 @@ function init() {
     inquirer
       .prompt(questions)
       .then((answers) => {
-        console.log(answers.name_of_project);
-        console.log(answers.description);
-        console.log(answers.installation_instructions);
-        console.log(answers.usage_information);
-        console.log(answers.contribution_guidelines);
-        console.log(answers.test_instructions);
-        // Use user feedback for... whatever!!
-        // let str = "# "  + answers.name_of_project + "\n \n";
-        // str += "## Description"  + "\n \n";
-        // str +=  answers.description  + "\n \n";
-        // str += 
+        
+   
 
         writeToFile("README2.md", generateMarkdown(answers))
       })
