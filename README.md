@@ -1,27 +1,27 @@
 
-# README Generator
+# readmeGenerator
 
-## Description
-A template for developers to input data to create professional README.
+## Description 
+app to easily create professional readme markdown files.
     
 
 ## Installation Instructions
-Visit public repository and clone READMEGENERATOR onto your computer.
+Navigate to JosieSavill on Github and clone repository to computer.
     
 
 ## Data Usage Information
-Require and NPM installations to run app.
+Require and NPM must be installed prior to use.
     
 
 ## Contribution Guidelines
-Current or prior enrollment in University of Arizona bootcamps.
+Please add our link to your readme !!
     
 
 ## Instructions
-Answer questions as prompted.
+input incorrect data and should return false.
 
 ## License
-Educational Community License v2.0
-[https://opensource.org/license/ecl2-php/](https://opensource.org/license/ecl2-php/)
+Creative Commons license family
+[https://creativecommons.org/licenses/](https://creativecommons.org/licenses/)
 
     
