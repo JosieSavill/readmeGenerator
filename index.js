@@ -79,7 +79,7 @@ function init() {
         
    
 
-        writeToFile("README2.md", generateMarkdown(answers))
+        writeToFile("README.md", generateMarkdown(answers))
       })
       .catch((error) => {
         if (error.isTtyError) {
