@@ -1,24 +1,24 @@
 
-# readme generator
+# README Generator
 
 ## Description
-generates professional readme
+A template for developers to input data to create professional README.
     
 
 ## Installation Instructions
-download from github  public repository
+Visit public repository and clone READMEGENERATOR onto your computer.
     
 
 ## Data Usage Information
-link to video for instructions
+Require and NPM installations to run app.
     
 
 ## Contribution Guidelines
-must be a student in bootcamp
+Current or prior enrollment in University of Arizona bootcamps.
     
 
 ## Instructions
-enter input
+Answer questions as prompted.
 
 ## License
 Educational Community License v2.0
