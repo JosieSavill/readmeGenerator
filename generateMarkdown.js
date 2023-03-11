@@ -14,28 +14,105 @@ switch(data.license){
 
 
     return `
-# ${data.name_of_project}
+# **${data.name_of_project}**  
 
-## Description 
-${data.description}
-    
+  
+  
 
-## Installation Instructions
-${data.installation_instructions}
-    
 
-## Data Usage Information
-${data.usage_information}
-    
+---
 
-## Contribution Guidelines
-${data.contribution_guidelines}
-    
 
-## Instructions
-${data.test_instructions}
 
-## License
+
+
+## *Table of Contents*
+
+    * Description  
+
+    * Installation Instructions  
+
+    * Data Usage Information  
+
+    * Contributary Guidelines  
+
+    * Instructions  
+
+    * Questions  
+
+    * License  
+  
+    * README Preview  
+  
+    * DEMO Video  
+  
+
+
+
+  
+  
+
+### *Description*  
+
+
+    ${data.description}  
+  
+  
+
+### *Installation Instructions*  
+
+
+    ${data.installation_instructions}  
+  
+  
+
+### *Data Usage Information*  
+  
+
+    ${data.usage_information}  
+  
+  
+
+### *Contribution Guidelines*  
+  
+
+    ${data.contribution_guidelines}  
+  
+  
+
+### *Instructions*  
+  
+
+    ${data.test_instructions}  
+  
+  
+
+### *Questions*  
+  
+
+    1. GitHub user name: ${data.questions_user_name}  
+
+    2. GitHub Profile: ${data.questions_github_link}  
+
+    3. Contact Email: ${data.questions_email}  
+      
+      
+      
+### *README Preview*  
+  
+    ${data.image_link}  
+      
+      
+### *DEMO Video*  
+  
+
+    ${data.video_link}
+
+      
+      
+
+### *License*  
+
 ${license}
 [${link}](${link})
 

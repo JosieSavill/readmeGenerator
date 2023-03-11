@@ -43,6 +43,37 @@ const questions = [
     },
 
     {
+      name: "questions_user_name",
+      type: "input",
+      message: "What is your Github user name?"
+    },
+
+    {
+      name: "questions_github_link",
+      type: "input",
+      message: "What is your Github profile link?"
+    },
+
+    {
+      name: "questions_email",
+      type: "input",
+      message: "What is your email address?"
+    },
+
+    {
+      name: "image_link",
+      type: "input",
+      message: "Enter a preview image URL: "
+    },
+
+    {
+      name:  "video_link",
+      type: "input",
+      message: "Enter DEMO video link: "
+    },
+
+
+    {
      name:'license',
      type: 'list',
      message: 'Choose Your License',

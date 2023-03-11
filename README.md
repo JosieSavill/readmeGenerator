@@ -1,26 +1,97 @@
 
-# readmeGenerator
+# **README GENERATOR**  
 
-## Description 
-app to easily create professional readme markdown files.
-    
+  
+  
 
-## Installation Instructions
-Navigate to JosieSavill on Github and clone repository to computer.
-    
 
-## Data Usage Information
-Require and NPM must be installed prior to use.
-    
+---
 
-## Contribution Guidelines
-Please add our link to your readme !!
-    
 
-## Instructions
-input incorrect data and should return false.
 
-## License
+
+
+## *Table of Contents*
+
+    * Description  
+
+    * Installation Instructions  
+
+    * Data Usage Information  
+
+    * Contributary Guidelines  
+
+    * Instructions  
+
+    * Questions  
+
+    * License  
+
+
+  
+  
+
+### *Description*  
+
+
+    Application generating professional README markdown file.  
+  
+  
+
+### *Installation Instructions*  
+
+
+    Follow GitHub link to clone repository to your computer.  
+  
+  
+
+### *Data Usage Information*  
+  
+
+    Must install Inquirer Package before use.  
+  
+  
+
+### *Contribution Guidelines*  
+  
+
+    May contribute in several ways to GitHub docs.  
+  
+  
+
+### *Instructions*  
+  
+
+    Run from command line: git test run master . .mybranch  
+  
+  
+
+### *Questions*  
+  
+
+    1. GitHub user name: JosieSavill  
+
+    2. GitHub Profile: https://github.com/JosieSavill/readmeGenerator  
+
+    3. Contact Email: (FiordaSavillJosie@gmail.com)  
+      
+      
+      
+### *README Preview*  
+  
+    https://.png  
+      
+      
+### *DEMO Video*  
+  
+
+    https://demo.
+
+      
+      
+
+### *License*  
+
 Creative Commons license family
 [https://creativecommons.org/licenses/](https://creativecommons.org/licenses/)
 
