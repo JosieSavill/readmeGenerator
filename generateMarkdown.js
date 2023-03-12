@@ -1,22 +1,38 @@
-module.exports = function (data){
+module.exports = function (data) {
 
-let license = link = "";
+    let license = link = "";
+    let badgeColor = "";
+    let badgeTitle = ""
 
-switch(data.license){
-    case "cc": license ='Creative Commons license family'; link = "https://creativecommons.org/licenses/";  break;
-    case "ecl-2.0": license = "Educational Community License v2.0" ; link = "https://opensource.org/license/ecl2-php/"; break;
-    case "osl-3.0": license = "Open Software License 3.0"; link = "https://opensource.org/licenses/"; break;
-    
-}
+    switch (data.license) {
+        case "cc":
+            license = 'Creative Commons license family';
+            link = "https://creativecommons.org/licenses/";
+            badgeTitle = "CC"
+            badgeColor ="blue"
+            break;
+        case "ecl-2.0":
+            license = "Educational Community License v2.0";
+            link = "https://opensource.org/license/ecl2-php/";
+            badgeTitle ="ECL_2.0"
+            badgeColor = "red"
+            break;
+        case "osl-3.0":
+            license = "Open Software License 3.0";
+            link = "https://opensource.org/licenses/";
+            badgeTitle = "OSL_3.0"
+            badgeColor = "yellow"
+            break;
+    }
 
-
+    var badge = `![](https://img.shields.io/badge/License-${data.license}-${badgeColor})`
 
 
 
     return `
 # **${data.name_of_project}**  
 
-  
+ ${badge} 
   
 
 
@@ -28,23 +44,21 @@ switch(data.license){
 
 ## *Table of Contents*
 
-    * Description  
+* [Description](#description)
 
-    * Installation Instructions  
+* [Installation Instructions](#installation-instructions)
 
-    * Data Usage Information  
+* [Data Usage Information](#data-usage-information)  
 
-    * Contributary Guidelines  
+* [Contributary Guidelines](#contribution-guidelines)  
 
-    * Instructions  
+* [Instructions](#instructions)  
 
-    * Questions  
+* [Questions](#questions)  
 
-    * License  
+* [License](#license)   
   
-    * README Preview  
-  
-    * DEMO Video  
+      
   
 
 
@@ -94,27 +108,17 @@ switch(data.license){
 
     2. GitHub Profile: ${data.questions_github_link}  
 
-    3. Contact Email: ${data.questions_email}  
+    3. Contact Email: ${data.questions_email} 
       
       
       
-### *README Preview*  
-  
-    ${data.image_link}  
-      
-      
-### *DEMO Video*  
-  
 
-    ${data.video_link}
 
       
       
 
 ### *License*  
-
-${license}
-[${link}](${link})
+This project is licensed under the [${license}](${link})
 
     
 `;

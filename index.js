@@ -60,17 +60,7 @@ const questions = [
       message: "What is your email address?"
     },
 
-    {
-      name: "image_link",
-      type: "input",
-      message: "Enter a preview image URL: "
-    },
-
-    {
-      name:  "video_link",
-      type: "input",
-      message: "Enter DEMO video link: "
-    },
+    
 
 
     {
@@ -108,7 +98,7 @@ function init() {
         
    
 
-        writeToFile("README.md", generateMarkdown(answers))
+        writeToFile("README2.md", generateMarkdown(answers))
       })
       .catch((error) => {
         if (error.isTtyError) {

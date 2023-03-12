@@ -1,5 +1,5 @@
 
-# **jjjjjj**  
+# **README GENERATOR**  
 
  ![](https://img.shields.io/badge/License-cc-blue) 
   
@@ -38,46 +38,46 @@
 ### *Description*  
 
 
-    jjjjjjj  
+    Follow GitHub link to clone repository to your computer.  
   
   
 
 ### *Installation Instructions*  
 
 
-    jjjjjjjj  
+    Must install Inquirer Package prior to use.  
   
   
 
 ### *Data Usage Information*  
   
 
-    jjjjjjjj  
+    May contribute to GitHub Docs after merge approval.  
   
   
 
 ### *Contribution Guidelines*  
   
 
-    jjjjjjjj  
+    May contribute to GitHub Docs after merge approval.  
   
   
 
 ### *Instructions*  
   
 
-    jjjjjjjj  
+    In command line run: git test run master . .mybranch  
   
   
 
 ### *Questions*  
   
 
-    1. GitHub user name: jjjjjjjjj  
+    1. GitHub user name: JosieSavill  
 
-    2. GitHub Profile: jjjjjjjjj  
+    2. GitHub Profile: https://github.com/JosieSavill/readmeGenerator  
 
-    3. Contact Email: jjjjjjj 
+    3. Contact Email: josie@gmail.com 
       
       
       
