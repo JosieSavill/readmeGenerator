@@ -1,5 +1,5 @@
 
-# **jjjjjj**  
+# **README GENERATOR**  
 
  ![](https://img.shields.io/badge/License-cc-blue) 
   
@@ -13,19 +13,15 @@
 
 ## *Table of Contents*
 
-* [Description](#description)
-
-* [Installation Instructions](#installation-instructions)
-
-* [Data Usage Information](#data-usage-information)  
-
-* [Contributary Guidelines](#contribution-guidelines)  
-
-* [Instructions](#instructions)  
-
-* [Questions](#questions)  
-
-* [License](#license)   
+1. [**README GENERATOR**](#readme-generator)
+   1. [*Table of Contents*](#table-of-contents)
+      1. [*Description*](#description)
+      2. [*Installation Instructions*](#installation-instructions)
+      3. [*Data Usage Information*](#data-usage-information)
+      4. [*Contribution Guidelines*](#contribution-guidelines)
+      5. [*Instructions*](#instructions)
+      6. [*Questions*](#questions)
+      7. [*License*](#license)
   
       
   
@@ -38,46 +34,46 @@
 ### *Description*  
 
 
-    jjjjjjj  
+    Follow GitHub link to clone repository to your computer.  
   
   
 
 ### *Installation Instructions*  
 
 
-    jjjjjjjj  
+    Must install Inquirer Package prior to use.  
   
   
 
 ### *Data Usage Information*  
   
 
-    jjjjjjjj  
+    May contribute to GitHub Docs after merge approval.  
   
   
 
 ### *Contribution Guidelines*  
   
 
-    jjjjjjjj  
+    May contribute to GitHub Docs after merge approval.  
   
   
 
 ### *Instructions*  
   
 
-    jjjjjjjj  
+    In command line run: git test run master . .mybranch  
   
   
 
 ### *Questions*  
   
 
-    1. GitHub user name: jjjjjjjjj  
+    1. GitHub user name: JosieSavill  
 
-    2. GitHub Profile: jjjjjjjjj  
+    2. GitHub Profile: https://github.com/JosieSavill/readmeGenerator  
 
-    3. Contact Email: jjjjjjj 
+    3. Contact Email: josie@gmail.com 
       
       
       
