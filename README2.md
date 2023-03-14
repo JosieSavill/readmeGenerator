@@ -1,7 +1,7 @@
 
-# **README GENERATOR**  
+# **README Generator**  
 
- ![](https://img.shields.io/badge/License-cc-blue) 
+ ![](https://img.shields.io/badge/License-ecl-2.0-red) 
   
 
 
@@ -38,35 +38,35 @@
 ### *Description*  
 
 
-    Follow GitHub link to clone repository to your computer.  
+    Application for creating professional style markdown files.  
   
   
 
 ### *Installation Instructions*  
 
 
-    Must install Inquirer Package prior to use.  
+    Install Inquirer Package prior to use.  
   
   
 
 ### *Data Usage Information*  
   
 
-    May contribute to GitHub Docs after merge approval.  
+    Will need NPM install.  
   
   
 
 ### *Contribution Guidelines*  
   
 
-    May contribute to GitHub Docs after merge approval.  
+    Refer to link in GitHub repository.  
   
   
 
 ### *Instructions*  
   
 
-    In command line run: git test run master . .mybranch  
+    Run master test ..mybranch  
   
   
 
@@ -75,9 +75,9 @@
 
     1. GitHub user name: JosieSavill  
 
-    2. GitHub Profile: https://github.com/JosieSavill/readmeGenerator  
+    2. GitHub Profile: josie/github  
 
-    3. Contact Email: josie@gmail.com 
+    3. Contact Email: josie@josie.mail 
       
       
       
@@ -87,6 +87,6 @@
       
 
 ### *License*  
-This project is licensed under the [Creative Commons license family](https://creativecommons.org/licenses/)
+This project is licensed under the [Educational Community License v2.0](https://opensource.org/license/ecl2-php/)
 
     
