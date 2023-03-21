@@ -6,6 +6,8 @@
 
  This application generates a professional README markdown file.  Upon launch, a command-line accepts user input.  User is prompted for information about their project:  Description, Table of Contents, Usage, License, Contribution Guidelines, any tests, and contact links for any questions.  Data entered is then integrated into the finished markdown file, complete with a table of contents and links navigating to corresponding sections.
 
+ [Link to sample README](https://github.com/JosieSavill/readmeGenerator/blob/main/README2.md)
+
 
 ## *Installation Instructions*
 
@@ -15,8 +17,7 @@ Must install Inquirer Package prior to use :  [Inquirer 8.2.4 download](https://
 
   [Deployed README GENERATOR](https://josiesavill.github.io/readmeGenerator/)
 
-  [Link to sample README](https://github.com/JosieSavill/readmeGenerator/blob/main/README2.md)
-
+ 
 
 
 
