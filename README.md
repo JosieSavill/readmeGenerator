@@ -15,7 +15,7 @@ Must install Inquirer Package prior to use :  [Inquirer 8.2.4 download](https://
 
   [Deployed README GENERATOR](https://josiesavill.github.io/readmeGenerator/)
 
-  [Link to sample README](https://josiesavill.github.io/readmeGenerator/readme2.md)
+  [Link to sample README](https://github.com/JosieSavill/readmeGenerator/blob/main/README2.md)
 
 
 
